@@ -7,7 +7,7 @@ An interactive web application was developed using Streamlit to allow users to t
 
 ## Live Demo
 
-[Try the application here](next-word-prediction-using-lstm-cziq4y2cvuoz2yv7wgj83f.streamlit.app)
+[Try the application here](https://next-word-prediction-using-lstm-cziq4y2cvuoz2yv7wgj83f.streamlit.app/)
 
 ## Features
 
